@@ -1,2 +1,3 @@
 # PrintedHeart
-game source code
+
+https://printed.tistory.com/
