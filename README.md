@@ -1,4 +1,4 @@
-# PrintedHeart
+# PrintedLove
 
 https://printed.tistory.com/
 
